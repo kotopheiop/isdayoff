@@ -4,6 +4,7 @@
 [![Test Coverage](https://img.shields.io/badge/coverage-81.1%25-brightgreen.svg)](./isdayoff_test.go)
 [![Go Report Card](https://goreportcard.com/badge/github.com/kotopheiop/isdayoff)](https://goreportcard.com/report/github.com/kotopheiop/isdayoff)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![PkgGoDev](https://pkg.go.dev/badge/github.com/kotopheiop/isdayoff.svg)](https://pkg.go.dev/github.com/kotopheiop/isdayoff)
 
 Клиент для работы с [Isdayoff API](https://isdayoff.ru/)
 
